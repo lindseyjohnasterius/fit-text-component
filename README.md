@@ -1,5 +1,5 @@
 # fit-text-component
-HTML Element that fits text on screen
+HTML Element that expands or contracts text to fill the entire width of the screen
 
 ## How to use
 
