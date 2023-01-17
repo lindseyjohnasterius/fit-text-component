@@ -7,6 +7,7 @@ class FitTextComponent extends HTMLElement {
     const text = this.innerHTML; 
     this.style.display = 'block';
     this.style.width = `100vw`;
+    this.style.lineHeight = 1;
     let compressor = this.getAttribute('compressor');
     if(compressor === null){
       compressor = 1;
